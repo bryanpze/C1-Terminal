@@ -10,4 +10,4 @@ Currently testing out a deep learning approach in wait of Fall 2022 - Europe Reg
 Global Competition S8 Highest ELO: 2699 \
 Global Competition S8 Highest Ranking: 23/268
 
-![Global Competition](Terminal1.png)
+![Global Competition](Terminal2.png)
